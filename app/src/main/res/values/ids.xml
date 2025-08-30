@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_dialog_title" type="id" />
+    <item name="til_full_name" type="id" />
+    <item name="et_full_name" type="id" />
+    <item name="til_phone" type="id" />
+    <item name="et_phone" type="id" />
+    <item name="til_age" type="id" />
+    <item name="et_age" type="id" />
+    <item name="tv_role_label" type="id" />
+    <item name="spinner_role" type="id" />
+    <item name="checkbox_locked" type="id" />
+    <item name="btn_cancel" type="id" />
+    <item name="btn_save" type="id" />
+</resources>

@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="student_management_system">Student Management System</string>
+<string name="app_logo"> Student</string>
+    <!-- Login Screen -->
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <!-- Navigation -->
+    <string name="students">Students</string>
+    <string name="users">Users</string>
+    <string name="import_export">Import/Export</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!-- Student Management -->
+    <string name="search_student">Search Student</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="add_student">Add Student</string>
+    <string name="no_students_found">No Students Found</string>
+    <string name="more_options">More Options</string>
+    <string name="student_photo">Student Photo</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="student_id">Student ID</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="status">Status</string>
+    <string name="certificates">Certificates</string>
+    <string name="add">Add</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="save">Save</string>
+    <string name="no_certificates_found">No Certificates Found</string>
+
+    <!-- Certificate Management -->
+    <string name="certificate_icon">Certificate Icon</string>
+    <string name="certificate_name">Certificate Name</string>
+    <string name="issuing_authority">Issuing Authority</string>
+    <string name="issue_date">Issue Date</string>
+    <string name="expiry_date_optional">Expiry Date (Optional)</string>
+    <string name="description_optional">Description (Optional)</string>
+
+    <!-- User Management -->
+    <string name="search_user">Search User</string>
+    <string name="add_user">Add User</string>
+    <string name="no_users_found">No Users Found</string>
+    <string name="normal">Normal</string>
+    <string name="locked">Locked</string>
+
+    <!-- Login History -->
+    <string name="login_history">Login History</string>
+    <string name="no_login_history">No Login History</string>
+    <string name="login_status">Login Status</string>
+
+    <!-- Import/Export -->
+    <string name="import_data">Import Data</string>
+    <string name="import_description">Import students or certificates from a CSV or Excel file.</string>
+    <string name="import_students">Import Students</string>
+    <string name="import_certificates">Import Certificates</string>
+    <string name="select_file">Select File</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="import_button">Import</string>
+    <string name="export_data">Export Data</string>
+    <string name="export_description">Export students or certificates to a CSV or Excel file.</string>
+    <string name="export_students">Export Students</string>
+    <string name="export_certificates">Export Certificates</string>
+    <string name="csv_format">CSV</string>
+    <string name="excel_format">Excel</string>
+    <string name="export_button">Export</string>
+
+    <!-- Profile -->
+    <string name="security">Security</string>
+    <string name="change_password">Change Password</string>
+    <string name="view_login_history">View Login History</string>
+    <string name="logout">Logout</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string-array name="sort_options">
+        <item>Default</item>
+        <item>Name (A-Z)</item>
+        <item>Name (Z-A)</item>
+        <item>Student ID (ascending)</item>
+        <item>Student ID (descending)</item>
+        <item>Class name</item>
+    </string-array>
+    <string name="add_certificate">Add Certificate</string>
+    <!-- Actions -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
