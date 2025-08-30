@@ -20,8 +20,7 @@ The app helps manage student information, user accounts, and certificates with r
 - **Material Design (UI/UX)**  
 - **CSV Utilities**  
 
-## 📷 Screenshots
-*(Add your app screenshots here if available)*  
+
 
 ## 🎥 Demo
 - **Demo Video:** [https://youtu.be/fCrqDgHjjEw](#)  
